@@ -1,6 +1,6 @@
 # **Experiments and Results Details**
 
-## Hyperparameter search ranges
+# Hyperparameter search ranges
 
 The tables below list the ranges over which the individual hyperparameters corresponding to the model types listed in **Table 5** of our paper.
 
@@ -222,7 +222,7 @@ Tuned hyperparameters for Late fusion
 
 
 
-## Confusion matrices of the results
+# Confusion matrices of the results
 
 ![](Aspose.Words.7a834eb5-c595-48ae-9c67-c7a7585c94bc.001.png)
 
