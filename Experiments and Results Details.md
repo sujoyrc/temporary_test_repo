@@ -224,11 +224,11 @@ Tuned hyperparameters for Late fusion
 
 # Confusion matrices of the results
 
-![](Aspose.Words.7a834eb5-c595-48ae-9c67-c7a7585c94bc.001.png)
+![](confMatrixAll.png)
 
 **Figure S3 (a):** Confusion matrices of predictions made from audio, video and audio-video modalities. Numbers are represented as percentages of the total number of samples shown in the matrix. The rows indicate the train-val split from which the validation data was used to generate the confusion matrix i.e. AG, CC, SCh data splits in the ‘seen split‘ case. The columns indicate unimodal audio, unimodal video and multimodal (corresponding to latent fusion - model D in Table 5 of the paper) models. Fig 5 in the paper (same as Figure S3 (b) below) is derived from this figure by combining the predictions across all 3 data splits.
 
-![](Aspose.Words.7a834eb5-c595-48ae-9c67-c7a7585c94bc.002.png)
+![](ConfMatrixCombined.png)
 
 **Figure S3 (b):** Confusion matrices of predictions made from audio, video and audio-video modalities. Numbers are represented in percentages of the total number of test examples across the three singers combined. Same as Figure 5 in the paper.
 
